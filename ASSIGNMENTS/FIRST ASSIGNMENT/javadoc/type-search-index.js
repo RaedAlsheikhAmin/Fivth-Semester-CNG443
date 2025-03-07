@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Bed_And_Breakfast","l":"BASIC"},{"p":"Bed_And_Breakfast","l":"Booking"},{"p":"Bed_And_Breakfast","l":"Host"},{"p":"Bed_And_Breakfast","l":"PopulateData"},{"p":"Bed_And_Breakfast","l":"Property"},{"p":"Bed_And_Breakfast","l":"User"}];updateSearchResults();
